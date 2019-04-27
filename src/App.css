@@ -1,3 +1,5 @@
+@import 'bootstrap.min.css';
+
 .App {
   text-align: center;
 }
@@ -17,6 +19,57 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+body{
+  background-color: #282c34;
+}
+
+
+.introHeader {
+  background-image: url('intro-bg.jpg');
+  background-size: cover;
+  min-height: 50vh;
+  text-align: left;
+}
+
+.introText {
+  padding-top: 15vh;
+  color: #e9ecef;
+  font-weight: 600;
+}
+
+.introLine {
+  color: #e9ecef;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.detailSection {
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.sectionList {
+  padding: 0;
+  color: #e9ecef;
+  text-align: left;
+  margin-bottom: 50px;
+}
+
+.sectionTitle {
+  color: #e9ecef;
+  text-align: left;
+  margin-bottom: 25px;
+}
+
+.sectionBody {
+  color: #e9ecef;
+  margin-bottom: 50px;
 }
 
 .App-link {
