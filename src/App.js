@@ -33,14 +33,14 @@ class App extends Component {
                 <li>JavaScript / TypeScript / Python / PHP</li>
                 <li>Angular 2+ / React / React Native / TensorFlow</li>
                 <li>SQL / NoSQL / SSRS / BusinessObjects</li>
-                <li>Laravel, WordPress, Shopify</li>
+                <li>Laravel / WordPress / Shopify</li>
                 <li>Git / NPM / Jenkins / Bamboo</li>
               </ul>
             </div>
             <div class="col-sm">
             <h3 className="sectionTitle">Projects</h3>
             <ul className="sectionList">
-                <li>Document Analysis (AI/ML)</li>
+                <li>Automated Document Analysis (AI/ML)</li>
                 <li>Native Mobile Applications</li>
                 <li>Insurance CRM Platform</li>
                 <li>Dynamic Digital Signage</li>
