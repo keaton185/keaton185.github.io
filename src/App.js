@@ -15,13 +15,10 @@ class App extends Component {
           <div class="container">
             <h3 className="sectionTitle">About</h3>
             <p className="sectionBody">
-            Originally from a technical consulting background advising
-            corporates on systems solution design and architecture throughout Australia, 
-            I've re-positioned to development to better align with my passion
-            of delivering well-crafted digital products and solutions for businesses and 
-            audiences of all sizes and backgrounds.
-            <br />
-            I'm currently based in Toronto, Canada and am open for opportunities in both Canada and Australia.
+              Originally from a technical consulting background, now focussed on 
+              building innovative digital solutions.
+              <br />
+              I'm currently based in Toronto, Canada and am open for opportunities in both Canada and Australia.
             </p>
           </div>
         </div>
