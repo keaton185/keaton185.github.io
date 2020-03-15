@@ -18,7 +18,7 @@ class App extends Component {
               Originally from a technical consulting background, now focussed on 
               building innovative digital solutions.
               <br />
-              I'm currently based in Toronto, Canada and am open for opportunities in Canada.
+              I'm currently based in Toronto, Canada.
             </p>
           </div>
         </div>
